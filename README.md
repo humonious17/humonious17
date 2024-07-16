@@ -1,12 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Abhishek Chandel!
 
-<li>
-    <a href="https://www.x.com/humonious/" style="display: flex; align-items: center;">
-        <img src="https://cdn.worldvectorlogo.com/logos/twitter-logo-2.svg" alt="x logo" width="25" height="25" style="margin-right: 10px;">
-        Follow on X
-    </a>
-</li>
-
 Enthusiastic and highly motivated Computer Science graduate with extensive experience in Software Development, as well as Data Analysis. Proficient in multiple programming languages including C/C++, Python, JavaScript, and Java.
 
 ---
