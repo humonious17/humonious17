@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Abhishek Chandel!
 
-Enthusiastic and highly motivated Computer Science graduate with extensive experience in Software Development, as well as Data Analysis. Proficient in multiple programming languages including C/C++, Python, JavaScript, and Java.
+An Enthusiastic and highly motivated Computer Science graduate with extensive experience in Software Development, as well as Data Analysis. Proficient in multiple programming languages including C/C++, Python, JavaScript, and Java.
 
 ---
 
