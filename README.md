@@ -1,18 +1,21 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Abhishek Chandel!
+# 💫 About Me:
+🤝 I'm looking to collaborate on Machine Learning and AI Projects <br>
 
-An Enthusiastic and highly motivated Computer Science graduate with extensive experience in Software Development, as well as Data Analysis. Proficient in multiple programming languages including C/C++, Python, JavaScript, and Java.
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/humonious) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abch) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/los_santos_guy) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=humonious17&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=humonious17&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=humonious17&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=humonious17&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🧰 Toolbox
-
-<img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C logo" width="50" height="50"/>   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="50" height="50"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="java Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="mysql Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="linux Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="gcloud Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="spring Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/android-4.svg" alt="android Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="numpy Logo" width="50" height="50"/>
-
----
-
-## &#x1f4c8; My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humonious17&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=humonious17&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
