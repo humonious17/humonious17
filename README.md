@@ -32,10 +32,6 @@ Software Developer and UI/UX designer passionate about building intelligent syst
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humonious17&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="170"/>
 </div>
 
-## 🚀 Open to Collaborate
-
-Interested in working on Machine Learning and AI projects. Feel free to reach out!
-
 ---
 
 <div align="center">
