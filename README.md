@@ -4,7 +4,7 @@
 
 ### Software Developer · UI/UX Designer
 
-Building intelligent systems and solving complex problems — one clean commit at a time.
+Building intelligent systems and solving complex problems; one clean commit at a time.
 
 <br>
 
