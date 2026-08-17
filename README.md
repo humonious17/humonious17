@@ -42,23 +42,3 @@ Building intelligent systems and solving complex problems — one clean commit a
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=humonious17&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humonious17&layout=compact&hide_border=true&theme=tokyonight" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=humonious17&hide_border=true&theme=tokyonight" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=humonious17&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
-
-</div>
